@@ -1,7 +1,7 @@
 # Computer-Vision-Practices-and-Mini-Projects
 ### This repository is dedicated to exploring and experimenting with various computer vision techniques, including:
 
-* Algorithm Practice: Training and testing the latest object detection, segmentation, tracking, and pose estimation models.
+* Algorithm Practice: Training and testing the latest object detection, segmentation, tracking, and pose estimation models etc.
   
 * Mathematical Exploration: Understanding and applying the mathematics behind computer vision algorithms.
 
