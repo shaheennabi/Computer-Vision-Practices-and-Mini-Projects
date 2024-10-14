@@ -3,7 +3,7 @@
 
 * Algorithm Practice: Training and testing the latest object detection, segmentation, tracking, and pose estimation models.
   
-# Mathematical Exploration: Understanding and applying the mathematics behind computer vision algorithms.
+* Mathematical Exploration: Understanding and applying the mathematics behind computer vision algorithms.
 
 * Latest Models: Experimenting with cutting-edge models in the computer vision field as they are released.
   
