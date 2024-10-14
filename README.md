@@ -10,9 +10,9 @@
 * Mini-Projects: Building small-scale projects focused on practical applications of computer vision techniques.
   
 * Research Paper Implementation: Exploring and implementing various research papers from scratch to understand and apply novel techniques.
-  
-* MLOps Experiments: Building mini-projects that incorporate MLOps practices, focusing on reproducibility, deployment, and monitoring for computer vision models.
 
 * GANs, VAEs, and Autoencoders: Implementing Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and other autoencoder-based architectures from scratch.
-  
+
+* MLOps Experiments: Building mini-projects that incorporate MLOps practices, focusing on reproducibility, deployment, and monitoring for computer vision models.
+
   ### This repository will be regularly updated with new experiments, research paper implementations, and mini-projects.
