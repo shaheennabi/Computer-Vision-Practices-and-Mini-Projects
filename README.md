@@ -2,7 +2,7 @@
 
 Welcome to my **Computer Vision** repository, where **images come to life**! 📸✨ This collection is dedicated to my work and experiments in the **computer vision** field, focusing on everything from **image processing** and **feature extraction** to **advanced model development**. If you're passionate about unlocking the power of **visual data** and building intelligent systems that can interpret the world, you're in the right place! 🚀🔍
 
-In this repository, I dive into various techniques such as **object detection**, **segmentation**, **tracking**, and **pose estimation**, applying **mathematical foundations** to real-world problems. I also build **Generative Adversarial Networks (GANs)**, **Variational Autoencoders (VAEs)**, and **autoencoders** from scratch, all while experimenting with the latest advancements in the field. This space also integrates **MLOps** practices, ensuring that models are reproducible, deployable, and monitored in production. 🌟
+In this repository, I dive into various techniques fron basics of **Computer Vision** technology like CNN, **object detection**, **segmentation**, **tracking**, and **pose estimation**, applying **mathematical foundations** to real-world problems. I also build **Generative Adversarial Networks (GANs)**, **Variational Autoencoders (VAEs)**, and **autoencoders** from scratch, all while experimenting with the latest advancements in the field. This space also integrates **MLOps** practices, ensuring that models are reproducible, deployable, and monitored in production. 🌟
 
 Whether you are starting your journey in **computer vision** or looking to deepen your expertise, this repository provides the tools, code, and inspiration to help you experiment, learn, and grow! 🎯💥
 
