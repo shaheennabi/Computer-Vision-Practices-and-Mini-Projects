@@ -1,3 +1,6 @@
 [submodule "Production-Ready-LeafLogic-Multi-AI-Agents-Project"]
 	path = Production-Ready-LeafLogic-Multi-AI-Agents-Project
 	url = https://github.com/shaheennabi/Production-Ready-LeafLogic-Multi-AI-Agents-Project
+[submodule "Production-Ready-Sign-Language-Object_detection-Project"]
+	path = Production-Ready-Sign-Language-Object_detection-Project
+	url = https://github.com/shaheennabi/Production-Ready-Sign-Language-Object_detection-Project
